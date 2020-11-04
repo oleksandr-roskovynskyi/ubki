@@ -1,5 +1,5 @@
 {
-  "name": "wearesho-team/ubki",
+  "name": "roskovynskyi/ubki",
   "description": "UBKI Integration for PHP",
   "type": "library",
   "require": {
@@ -36,7 +36,12 @@
     {
       "name": "Roman Varkuta",
       "email": "roman.varkuta@gmail.com"
+    },
+    {
+      "name": "roskovynskyi",
+      "email": "roskovynskyi@gmail.com"
     }
+
   ],
   "minimum-stability": "stable",
   "autoload": {
