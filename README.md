@@ -10,7 +10,7 @@
 ## Установка
 используя [composer](https://packagist.org):
 ```bash
-composer require wearesho-team/ubki
+composer require roskovynskyi/ubki
 ```
 
 ## Конфигурация
